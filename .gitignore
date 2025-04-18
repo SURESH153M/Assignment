@@ -1,4 +1,4 @@
-
-file.txt~
+# Ignore editor/mergetool backups
+*~
 *.un~
 *~~
